@@ -7,6 +7,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nagaprasad13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nagaprasad13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
