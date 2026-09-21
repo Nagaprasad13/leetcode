@@ -34,6 +34,7 @@ problems solved in leetcode
 | ------- |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -73,6 +74,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
