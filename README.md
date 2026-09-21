@@ -33,6 +33,7 @@ problems solved in leetcode
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ problems solved in leetcode
 | ------- |
 | [0148-sort-list](https://github.com/Nagaprasad13/leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,4 +66,16 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
