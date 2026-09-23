@@ -12,6 +12,7 @@ problems solved in leetcode
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
@@ -31,6 +32,7 @@ problems solved in leetcode
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nagaprasad13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Nagaprasad13/leetcode/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
