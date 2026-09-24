@@ -13,6 +13,7 @@ problems solved in leetcode
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
@@ -45,6 +46,7 @@ problems solved in leetcode
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
+| [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nagaprasad13/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nagaprasad13/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -116,4 +118,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Simulation
+|  |
+| ------- |
+| [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 <!---LeetCode Topics End-->
