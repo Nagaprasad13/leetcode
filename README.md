@@ -31,6 +31,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nagaprasad13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Nagaprasad13/leetcode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -101,4 +102,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nagaprasad13/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
