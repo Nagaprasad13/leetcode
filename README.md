@@ -12,6 +12,7 @@ problems solved in leetcode
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nagaprasad13/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -45,6 +46,7 @@ problems solved in leetcode
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
@@ -80,6 +82,7 @@ problems solved in leetcode
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 ## Merge Sort
 |  |
