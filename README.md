@@ -41,6 +41,7 @@ problems solved in leetcode
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nagaprasad13/leetcode/tree/master/0057-insert-interval) |
@@ -132,6 +133,7 @@ problems solved in leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 ## Stack
 |  |
@@ -141,4 +143,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
