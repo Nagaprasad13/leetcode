@@ -24,6 +24,7 @@ problems solved in leetcode
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ problems solved in leetcode
 | [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hungarian Algorithm
 |  |
