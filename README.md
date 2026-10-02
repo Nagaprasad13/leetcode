@@ -110,6 +110,7 @@ problems solved in leetcode
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
+| [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -126,6 +127,7 @@ problems solved in leetcode
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nagaprasad13/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
