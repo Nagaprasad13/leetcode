@@ -25,6 +25,7 @@ problems solved in leetcode
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ problems solved in leetcode
 | [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hungarian Algorithm
 |  |
