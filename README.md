@@ -34,6 +34,7 @@ problems solved in leetcode
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
@@ -55,6 +56,7 @@ problems solved in leetcode
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -101,6 +103,7 @@ problems solved in leetcode
 | ------- |
 | [0056-merge-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Nagaprasad13/leetcode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -122,6 +125,7 @@ problems solved in leetcode
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
