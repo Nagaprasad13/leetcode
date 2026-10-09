@@ -25,6 +25,7 @@ problems solved in leetcode
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
+| [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -177,10 +178,12 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
