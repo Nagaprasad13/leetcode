@@ -44,6 +44,7 @@ problems solved in leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nagaprasad13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -159,6 +160,7 @@ problems solved in leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nagaprasad13/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
@@ -166,6 +168,7 @@ problems solved in leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Prefix Sum
 |  |
