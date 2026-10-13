@@ -15,15 +15,20 @@ class Solution {
         }
         ListNode dummy=new ListNode(0);
         dummy.next=head;
-        ListNode prev=dummy;
-        while(prev!=null&&prev.next!=null&&prev.next.next!=null){
-            ListNode first=prev.next;
-            ListNode second=first.next;
-            prev.next=second;
-            first.next=second.next;
-            second.next=first;
-            prev=first;
-        }
+        ListNode prev=dummy,fir=prev.next;
+        ListNode sec=fir.next;
+        rec(prev);
         return dummy.next;
+    }
+    public static void rec(ListNode prev){
+        if(prev==null||prev.next==null||prev.next.next==null){
+            return;
+        }
+        ListNode first=prev.next;ListNode second=first.next;
+        prev.next=second;
+        first.next=second.next;
+        second.next=first;
+        prev=first;
+        rec(prev);
     }
 }
