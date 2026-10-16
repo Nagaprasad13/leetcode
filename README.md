@@ -12,6 +12,7 @@ problems solved in leetcode
 | [0148-sort-list](https://github.com/Nagaprasad13/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -25,6 +26,7 @@ problems solved in leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
+| [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -162,6 +164,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
+| [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nagaprasad13/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
