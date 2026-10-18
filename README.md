@@ -39,6 +39,7 @@ problems solved in leetcode
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
 ## Manacher
 |  |
 | ------- |
@@ -79,6 +80,7 @@ problems solved in leetcode
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
+| [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nagaprasad13/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nagaprasad13/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -179,6 +181,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
 ## Simulation
 |  |
 | ------- |
