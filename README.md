@@ -193,6 +193,7 @@ problems solved in leetcode
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -214,4 +215,12 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
