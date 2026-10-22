@@ -31,6 +31,7 @@ problems solved in leetcode
 | [0771-jewels-and-stones](https://github.com/Nagaprasad13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -201,6 +202,7 @@ problems solved in leetcode
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
