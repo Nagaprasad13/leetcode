@@ -68,6 +68,7 @@ problems solved in leetcode
 | [0057-insert-interval](https://github.com/Nagaprasad13/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
@@ -171,6 +172,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nagaprasad13/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -196,6 +198,7 @@ problems solved in leetcode
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nagaprasad13/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
