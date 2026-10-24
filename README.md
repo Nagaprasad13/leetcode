@@ -26,6 +26,7 @@ problems solved in leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0227-basic-calculator-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
@@ -186,6 +187,7 @@ problems solved in leetcode
 | [0002-add-two-numbers](https://github.com/Nagaprasad13/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nagaprasad13/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,6 +207,7 @@ problems solved in leetcode
 | [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
