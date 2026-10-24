@@ -31,6 +31,7 @@ problems solved in leetcode
 | [0556-next-greater-element-iii](https://github.com/Nagaprasad13/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Nagaprasad13/leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -209,6 +210,7 @@ problems solved in leetcode
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -216,6 +218,7 @@ problems solved in leetcode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
