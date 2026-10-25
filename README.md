@@ -75,6 +75,7 @@ problems solved in leetcode
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nagaprasad13/leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -97,6 +98,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/Nagaprasad13/leetcode/tree/master/0763-partition-labels) |
@@ -209,6 +211,7 @@ problems solved in leetcode
 | [0227-basic-calculator-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -230,6 +233,7 @@ problems solved in leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
