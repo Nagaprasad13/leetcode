@@ -34,6 +34,7 @@ problems solved in leetcode
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -216,6 +217,7 @@ problems solved in leetcode
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -224,6 +226,7 @@ problems solved in leetcode
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
