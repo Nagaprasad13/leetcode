@@ -84,6 +84,7 @@ problems solved in leetcode
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
@@ -208,6 +209,7 @@ problems solved in leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 ## Stack
 |  |
@@ -221,6 +223,7 @@ problems solved in leetcode
 | [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
