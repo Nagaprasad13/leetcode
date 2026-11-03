@@ -40,6 +40,7 @@ problems solved in leetcode
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ problems solved in leetcode
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +238,7 @@ problems solved in leetcode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
