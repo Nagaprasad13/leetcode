@@ -230,6 +230,7 @@ problems solved in leetcode
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nagaprasad13/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -256,6 +257,7 @@ problems solved in leetcode
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -266,9 +268,14 @@ problems solved in leetcode
 | [0155-min-stack](https://github.com/Nagaprasad13/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nagaprasad13/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
