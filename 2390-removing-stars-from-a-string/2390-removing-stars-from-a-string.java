@@ -9,10 +9,11 @@ class Solution {
                 st.push(ch);
                 }
         }
-        String ans="";
-        for(char ch:st){
-            ans+=ch;
+        StringBuilder ans=new StringBuilder();
+        while(!st.isEmpty()){
+            ans.append(st.pop());
         }
-        return ans;
+        ans.reverse();
+        return new String(ans);
     }
 }
