@@ -95,6 +95,7 @@ problems solved in leetcode
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1929-concatenation-of-array](https://github.com/Nagaprasad13/leetcode/tree/master/1929-concatenation-of-array) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/Nagaprasad13/leetcode/tree/master/2126-destroying-asteroids) |
 | [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
@@ -214,6 +215,7 @@ problems solved in leetcode
 | [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Nagaprasad13/leetcode/tree/master/1929-concatenation-of-array) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
