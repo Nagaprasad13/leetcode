@@ -95,6 +95,7 @@ problems solved in leetcode
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
+| [2126-destroying-asteroids](https://github.com/Nagaprasad13/leetcode/tree/master/2126-destroying-asteroids) |
 | [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nagaprasad13/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -140,6 +141,7 @@ problems solved in leetcode
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
+| [2126-destroying-asteroids](https://github.com/Nagaprasad13/leetcode/tree/master/2126-destroying-asteroids) |
 ## Merge Sort
 |  |
 | ------- |
@@ -166,6 +168,7 @@ problems solved in leetcode
 | [1323-maximum-69-number](https://github.com/Nagaprasad13/leetcode/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nagaprasad13/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2126-destroying-asteroids](https://github.com/Nagaprasad13/leetcode/tree/master/2126-destroying-asteroids) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nagaprasad13/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hungarian Algorithm
