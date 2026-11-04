@@ -94,6 +94,7 @@ problems solved in leetcode
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nagaprasad13/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/Nagaprasad13/leetcode/tree/master/1929-concatenation-of-array) |
 | [2105-watering-plants-ii](https://github.com/Nagaprasad13/leetcode/tree/master/2105-watering-plants-ii) |
@@ -239,6 +240,7 @@ problems solved in leetcode
 | [1021-remove-outermost-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -263,6 +265,7 @@ problems solved in leetcode
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
