@@ -87,6 +87,7 @@ problems solved in leetcode
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Nagaprasad13/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nagaprasad13/leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagaprasad13/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Nagaprasad13/leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -154,6 +155,7 @@ problems solved in leetcode
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nagaprasad13/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagaprasad13/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -286,4 +288,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagaprasad13/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
