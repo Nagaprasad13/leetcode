@@ -24,12 +24,14 @@ class Solution {
         }
         ListNode dummy=new ListNode(0);
         ListNode curr=dummy;
-        for(int num:st){
-            System.out.println(num);
+        
+        while(!st.isEmpty()){
+            int num=st.pop();
             ListNode newNode=new ListNode(num);
             newNode.next=curr.next;
             curr.next=newNode;
         }
+        dummy.next=reverse(dummy.next);
         return dummy.next;
     }
     public static ListNode reverse(ListNode head){
