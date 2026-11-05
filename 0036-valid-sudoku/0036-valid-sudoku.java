@@ -1,19 +1,43 @@
 class Solution {
+    public boolean table(char[][] board,int row,int col,char target){
+        for(int i=0;i<9;i++){
+            if(i==col){
+                continue;
+            }
+            if(board[row][i]==target){
+                return true;
+            }
+        }
+        for(int i=0;i<9;i++){
+            if(i==row){
+                continue;
+            }
+            if(board[i][col]==target){
+                return true;
+            }
+        }
+        int rowNo=(row/3)*3;
+        int colNo=(col/3)*3;
+        for(int i=rowNo;i<rowNo+3;i++){
+            for(int j=colNo;j<colNo+3;j++){
+                if(i==row&&j==col){
+                    continue;
+                }
+                if(board[i][j]==target){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
     public boolean isValidSudoku(char[][] board) {
-        boolean[][] rows=new boolean[9][9];
-        boolean[][] cols=new boolean[9][9];
-        boolean[][] boxnumber=new boolean[9][9];
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
+                char tar=board[i][j];
                 if(board[i][j]!='.'){
-                    int presNum=board[i][j]-'1';
-                    int boxIdx=(i/3)*3+(j/3);
-                    if(rows[i][presNum]||cols[j][presNum]||boxnumber[boxIdx][presNum]){
+                    if(table(board,i,j,tar)){
                         return false;
                     }
-                    rows[i][presNum]=true;
-                    cols[j][presNum]=true;
-                    boxnumber[boxIdx][presNum]=true;
                 }
             }
         }
