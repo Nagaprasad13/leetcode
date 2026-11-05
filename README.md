@@ -69,6 +69,7 @@ problems solved in leetcode
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nagaprasad13/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0056-merge-intervals) |
@@ -109,6 +110,7 @@ problems solved in leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nagaprasad13/leetcode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
@@ -256,6 +258,7 @@ problems solved in leetcode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nagaprasad13/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Monotonic Stack
