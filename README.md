@@ -66,6 +66,7 @@ problems solved in leetcode
 | [0328-odd-even-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nagaprasad13/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +210,7 @@ problems solved in leetcode
 | [0021-merge-two-sorted-lists](https://github.com/Nagaprasad13/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nagaprasad13/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -247,6 +249,7 @@ problems solved in leetcode
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nagaprasad13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Nagaprasad13/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -271,6 +274,7 @@ problems solved in leetcode
 | [0853-car-fleet](https://github.com/Nagaprasad13/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Nagaprasad13/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nagaprasad13/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
