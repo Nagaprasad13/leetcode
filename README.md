@@ -105,6 +105,7 @@ problems solved in leetcode
 | [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nagaprasad13/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Nagaprasad13/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2747-count-zero-request-servers](https://github.com/Nagaprasad13/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nagaprasad13/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nagaprasad13/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nagaprasad13/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -120,12 +121,14 @@ problems solved in leetcode
 | [0771-jewels-and-stones](https://github.com/Nagaprasad13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nagaprasad13/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/Nagaprasad13/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nagaprasad13/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Nagaprasad13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2747-count-zero-request-servers](https://github.com/Nagaprasad13/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nagaprasad13/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Counting
 |  |
@@ -149,6 +152,7 @@ problems solved in leetcode
 | [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [2126-destroying-asteroids](https://github.com/Nagaprasad13/leetcode/tree/master/2126-destroying-asteroids) |
+| [2747-count-zero-request-servers](https://github.com/Nagaprasad13/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Merge Sort
 |  |
 | ------- |
