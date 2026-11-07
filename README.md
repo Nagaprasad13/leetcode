@@ -95,6 +95,7 @@ problems solved in leetcode
 | [0905-sort-array-by-parity](https://github.com/Nagaprasad13/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nagaprasad13/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Nagaprasad13/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/Nagaprasad13/leetcode/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nagaprasad13/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagaprasad13/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -268,6 +269,7 @@ problems solved in leetcode
 | [0036-valid-sudoku](https://github.com/Nagaprasad13/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Nagaprasad13/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Nagaprasad13/leetcode/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -303,4 +305,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagaprasad13/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Nagaprasad13/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
