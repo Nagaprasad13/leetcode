@@ -76,6 +76,7 @@ problems solved in leetcode
 | [0056-merge-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nagaprasad13/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
@@ -233,6 +234,7 @@ problems solved in leetcode
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nagaprasad13/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nagaprasad13/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -273,6 +275,7 @@ problems solved in leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Nagaprasad13/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -309,4 +312,8 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Nagaprasad13/leetcode/tree/master/0994-rotting-oranges) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
