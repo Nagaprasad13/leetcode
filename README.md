@@ -76,6 +76,7 @@ problems solved in leetcode
 | [0056-merge-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nagaprasad13/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -316,4 +317,12 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
