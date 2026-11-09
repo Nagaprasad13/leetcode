@@ -78,6 +78,7 @@ problems solved in leetcode
 | [0059-spiral-matrix-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagaprasad13/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Nagaprasad13/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagaprasad13/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
@@ -321,8 +322,10 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
