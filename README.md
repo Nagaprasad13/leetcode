@@ -27,6 +27,7 @@ problems solved in leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nagaprasad13/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/Nagaprasad13/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
@@ -47,6 +48,7 @@ problems solved in leetcode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Nagaprasad13/leetcode/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/Nagaprasad13/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/Nagaprasad13/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nagaprasad13/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2420-find-all-good-indices](https://github.com/Nagaprasad13/leetcode/tree/master/2420-find-all-good-indices) |
@@ -328,6 +330,7 @@ problems solved in leetcode
 | [0040-combination-sum-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nagaprasad13/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
