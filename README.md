@@ -26,6 +26,7 @@ problems solved in leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nagaprasad13/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nagaprasad13/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0227-basic-calculator-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Nagaprasad13/leetcode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Nagaprasad13/leetcode/tree/master/0500-keyboard-row) |
@@ -116,6 +117,7 @@ problems solved in leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nagaprasad13/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nagaprasad13/leetcode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Nagaprasad13/leetcode/tree/master/0496-next-greater-element-i) |
@@ -321,6 +323,7 @@ problems solved in leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nagaprasad13/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Nagaprasad13/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nagaprasad13/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
